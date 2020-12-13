@@ -2,7 +2,7 @@
 */
 
 /*
-* Encapsulating the MD5 algorithm from RFC 1234 as a class,
+* Encapsulate the MD5 algorithm from RFC 1321 as a class,
 * by Zhiwen Ji <zw.ji@foxmail.com>;
 * this program is licensed under the GPL.
 */
